@@ -1,0 +1,16 @@
+# MySQL Basic commands 🐬
+
+SQL stands for “Structured Query Language”. In short, it is a programming language for dealing with relational databases (based on tables). It was created so that several developers could access and modify data of a company simultaneously, in an uncomplicated and unified way.
+
+To understand a little bit of how it works, let's look at its divisions, as it is separated into subsets, all of them have well-defined purposes. Let's see:
+
+* **DDL** - Data Definition Language, or Data Definition Language. These are the commands that interact with the bank's objects. DDL commands are: **CREATE**, **ALTER** and **DROP**;
+
+* **DML** - Data Manipulation Language. These commands interact with the data within the tables. DML commands: **INSERT**, **DELETE** and **UPDATE**;
+
+* **DQL** - Data Query Language, or Data Query Language. These are query commands. DQL commands are: **SELECT** (is the query command);
+
+* **DTL** - Data Transaction Language, or Data Transaction Language. They are commands for transaction control. DTL commands: **BEGIN TRANSACTION**, **COMMIT** AND **ROLLBACK**;
+
+* **DCL** - Data Control Language, or Data Control Language. They control the security part of the bank. Some DCL commands: **GRANT**, **REVOKE** AND **DENY**.
+
